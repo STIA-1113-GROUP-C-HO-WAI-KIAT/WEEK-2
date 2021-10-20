@@ -1,0 +1,23 @@
+package exercise;
+
+public class CampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I haven't go back to campus so i write my university life");
+		System.out.println("I start my day with attend class");
+		System.out.println("I do review what i was learned after school");
+		System.out.println("Then i will try to ask my lecturer if there are somthing i don't understand");
+		System.out.println("I will also make a new friends to build a group for assignment");
+		System.out.println("I participate in many activities created by club to gain merit");
+		System.out.println("This is my one day university life");
+		System.out.println("I start learning programming on 10/10/2021");
+		System.out.println("I create my first programming on 13/10/2021 teaching by my lecturer");
+		System.out.println("I try to play programming at night everyday");
+		System.out.println("I upload my first programming exercise on 17/10/2021");
+		System.out.println("I learned to calculate by using programming on 17/10/2021");
+		System.out.println("Today i am doing my exercise 1 week 2");
+		
+	}
+
+}
